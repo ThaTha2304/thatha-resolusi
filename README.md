@@ -1,2 +1,3 @@
 # thatha-resolusi
-Repository untuk menyimpan rencana ThaTha kedepannya
+
+Repository yang digunakan untuk mempelajari GitHub
