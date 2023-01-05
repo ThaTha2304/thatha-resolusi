@@ -1,0 +1,4 @@
+RENCANA PROJECT THATHA
+
+- Laravel
+- Django
