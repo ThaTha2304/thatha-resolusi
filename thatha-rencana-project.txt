@@ -4,3 +4,4 @@ RENCANA PROJECT THATHA
 - Django
 - Pakai tailwind CSS
 - Pakai JQuery
+- Pakai Code Igniter
