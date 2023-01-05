@@ -3,3 +3,4 @@ RENCANA PROJECT THATHA
 - Laravel
 - Django
 - Pakai tailwind CSS
+- Pakai JQuery
